@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiraomidvar7129" alt="samiraomidvar7129" /></a> </p>
 
-- 🔭 I’m currently working on **corporate-project-react**
+- 🔭 I’m currently working on **Aria-Hotel-React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samiraomidvar7129](https://github.com/samiraomidvar7129)
 
