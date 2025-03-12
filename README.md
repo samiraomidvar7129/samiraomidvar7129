@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiraomidvar7129" alt="samiraomidvar7129" /></a> </p>
 
-- 🔭 I’m currently working on **Aria-Hotel-React**
+- 🔭 I’m currently working on **PersianGreyHoundAssistant**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samiraomidvar7129](https://github.com/samiraomidvar7129)
 
-- 💬 Ask me about **React.js,Redux,JavaScript,PWA,Tailwind,Bootsrap,Materialize,Git,Html5,Css3**
+- 💬 Ask me about **React.js,Redux,Next.js,JavaScript,PWA,Tailwind,Bootsrap,Git&github**
 
 - 📫 How to reach me **yasaminomid9643@gmail.com**
 
