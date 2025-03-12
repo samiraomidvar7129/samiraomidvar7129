@@ -9,9 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/samiraomidvar7129](https://github.com/samiraomidvar7129)
 
-- 💬 Ask me about **React.js,Redux,Next.js,JavaScript,PWA,Tailwind,Bootsrap,Git&github**
+- 💬 Ask me about **React.js , Next.js , Next.js , JavaScript , PWA , Tailwind , Bootsrap , Sass , Git&github**
 
 - 📫 How to reach me **yasaminomid9643@gmail.com**
+- 📫 How to reach me **somdr0889@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
